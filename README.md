@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Keos<br>🤝 I’m looking for help with Open Projects N8N, Rocket Chat, Base Pipelines Azure Datafactory<br>🌱 I’m currently learning Optimization middle level ETL'S, System Ingest Raw Data ⚡ Fun fact
+🔭 I’m currently working on Keos<br>🤝 I’m looking for help with Open Projects N8N, Rocket Chat, Base Pipelines Azure Datafactory<br>🌱 I’m currently learning Optimization middle level ETL'S, System Ingest Raw Data
 
 
 ## 🌐 Socials:
